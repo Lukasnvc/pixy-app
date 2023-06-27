@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pixy-app/static/css/main.800a79fb.css",
-    "main.js": "/pixy-app/static/js/main.07c36c74.js",
+    "main.js": "/pixy-app/static/js/main.ea8664c8.js",
     "static/media/notFound.png": "/pixy-app/static/media/notFound.3bbfa7885c83b21b9cbe.png",
     "static/media/android-chrome-192x192.png": "/pixy-app/static/media/android-chrome-192x192.8120d1b2ae2668c68b5e.png",
     "index.html": "/pixy-app/index.html",
     "main.800a79fb.css.map": "/pixy-app/static/css/main.800a79fb.css.map",
-    "main.07c36c74.js.map": "/pixy-app/static/js/main.07c36c74.js.map"
+    "main.ea8664c8.js.map": "/pixy-app/static/js/main.ea8664c8.js.map"
   },
   "entrypoints": [
     "static/css/main.800a79fb.css",
-    "static/js/main.07c36c74.js"
+    "static/js/main.ea8664c8.js"
   ]
 }
