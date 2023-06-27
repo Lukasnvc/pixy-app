@@ -13,11 +13,10 @@ import { useRef } from "react";
 const IMAGES = "IMAGES";
 const VIDEOS = "VIDEOS";
 
-export const useImages = (search: string | null, page: string | null, id: string | null) => {
+export const useImages = (search, page, id) => {
   const initialFetchRef = useRef(true);
-
   return useQuery({
-    queryKey: [IMAGES, search, page],
+    queryKey: [IMAGES, search],
     queryFn: () => {
       if (initialFetchRef.current) {
         initialFetchRef.current = false;
